@@ -105,11 +105,11 @@ A mesma simulação foi realizada utilizando dois perfis diferentes.
 
 ### Perfil Moderado
 
-![Perfil Moderado](prints/perfil-moderado.png)
+![Perfil Moderado](perfil-moderado.png)
 
 ### Perfil Arrojado
 
-![Perfil Arrojado](prints/perfil-arrojado.png)
+![Perfil Arrojado](perfil-arrojado.png)
 
 A troca do perfil altera automaticamente a divisão do aporte, mantendo cada perfil com distribuição total de 100%.
 
